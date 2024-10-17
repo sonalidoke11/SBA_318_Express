@@ -1,0 +1,4 @@
+- Created a server application with Node and Express.
+- Using PUG as a template engine
+- Created routes for Users and posts
+- Created GET, POST, PUT, DELETE methods for users and posts
